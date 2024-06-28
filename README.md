@@ -2,7 +2,7 @@
 Repository for the 1st Assessment.
 
 # Load the data
-The following code can be used to import a merged CSV file containing 4898 samples:
+The following code can be used to import a wine quality red CSV file containing 1600 samples:
 
 ```python
 import pandas as pd
